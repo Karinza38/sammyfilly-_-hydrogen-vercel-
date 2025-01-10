@@ -1,4 +1,4 @@
-# Hydrogen v2
+ # Hydrogen v2
 
 This directory is a brief example of a [Hydrogen v2](https://shopify.dev/custom-storefronts/hydrogen) storefront that can be deployed to Vercel with zero configuration.
 
